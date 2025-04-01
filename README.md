@@ -1,4 +1,4 @@
-# PlayerInteraction
+# FPP Interaction
 
 #FPP Interaction plugin handles interactable objects detection and interaction. The plugin is designed to handle interaction primarily for FPP Characters (it relies on the Line Trace from the player's camera).
 

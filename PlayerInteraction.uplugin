@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Player Interaction",
+	"Description": "FPP Interaction plugin handles interactable objects detection and interaction.",
+	"Category": "Gameplay",
+	"CreatedBy": "LG7",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1lBRr2wscKWMqQitw31OeopRcx2CYa1oPHIVW2y7Z9Ro/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/499b8882e3844ea2845f2d73f6f955f4",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PlayerInteraction",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}

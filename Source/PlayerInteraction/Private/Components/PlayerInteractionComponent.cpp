@@ -111,7 +111,7 @@ void UPlayerInteractionComponent::CheckInteractionTrace()
 		{
 			if (InteractiveComponent != CurrentlyDetectedComponent)
 			{
-				if (CurrentlyDetectedComponent.Get())
+				if (CurrentlyDetectedComponent)
 				{
 					ClearDetectedComponent();
 				}
